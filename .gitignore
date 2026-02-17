@@ -1,0 +1,4 @@
+.venv
+.env
+
+# nao deixa subir para o git
