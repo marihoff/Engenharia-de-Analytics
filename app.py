@@ -7,6 +7,10 @@ print('Meu primeiro comando')
 
 #comando para rodar o código: streamlit run app.py
 
+# para atualizar o github: git add . , git commmit -m "novo arquivo", git push
+
+# para clonar: git bash, git clone e o link da pasta, mkdir "nome da nova pasta", cd "nome da pasta", git clone link da pasta, cd nome da pasta, code .
+
 
 import io
 import pandas as pd
